@@ -59,7 +59,7 @@ SESSION_STRING = "BQJb6qwAILWA9cgs2mfi5QyhS5vxfCYcJwVBFMMwh6ep4kIPe85ZSpsPeNitSS
 USERBOT = None  # Pyrogram MTProto client (auto-started when SESSION_STRING is set)
 
 SUDO_IDS = [
-    # 8602611453,
+    # 8902665156,
 ]
 
 BOT_TOKENS = [t for t in [
@@ -74,6 +74,10 @@ BOT_TOKENS = [t for t in [
 "8859376893:AAGHYMmctbrGdT7ruwpy0-Aaz-HoCXnD6vQ",
 
 "8740130173:AAECw2bxBUiTConEY8Kp1j8YPN55Wo8FNjQ",
+
+"8920271086:AAH5vMK2PY8ea52mjd-y2X_Uj4nrdFv3h5s",
+
+"8665871025:AAEwAuD5cMnjMF2GqDgYcVgKTImfefv5tt8",
 ] if t.strip()]
 
 if not BOT_TOKENS:
@@ -261,7 +265,7 @@ NC_BOLT_MESSAGES = [
     "💋 {target} 💋",
 ]
 
-UNAUTHORIZED_MESSAGE = "-# 𝙍𝙣𝙙𝙮𝙨𝙤𝙣 𝙂𝙚𝙩 𝙎𝙪𝙙𝙤 𝙁𝙞𝙧𝙨𝙩 𝙏𝙝𝙚𝙣 𝙘𝙤𝙢𝙚 𝙬𝙞𝙩𝙝 𝙮𝙤𝙪𝙧 𝙢𝙤𝙢 𝙖𝙣𝙙 𝙝𝙖𝙣𝙙 𝙮𝙤𝙪𝙧 𝙢𝙤𝙢 𝙩𝙤 𝙢𝙚 💘 "
+UNAUTHORIZED_MESSAGE = "-# BHOSDI KE BINA AMAN SE SUDO LIYE BOT USE KREGA AMMA CHUD JAYEGI🖕🏼❤️‍🔥💘 "
 
 NAME_CHANGE_MESSAGES = [
     "{target} 𝙖𝙖𝙜 𝙡𝙖𝙜𝙞 𝙝 𝙗𝙖𝙨𝙩𝙞 𝙢 𝙩𝙚𝙧𝙞 𝙢𝙖𝙖 𝙘𝙝𝙪𝙙𝙧𝙞 𝙢𝙖𝙨𝙩𝙞 𝙢 ━━━》━━━》━━》━━━━━━》━━━━》━━━━━ 😹🔥😹🔥😹",
