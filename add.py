@@ -35,7 +35,7 @@ API_HASH = "ad1b7cd0a5c14bb8553c4cf5a9851b00"
 # ---------------------------
 #      ADD SESSION
 # ---------------------------
-SESSION = "MY.SESSION"
+SESSION = "BQJb6qwAILWA9cgs2mfi5QyhS5vxfCYcJwVBFMMwh6ep4kIPe85ZSpsPeNitSS_x1zxcX-fFpItXjVOtjWTOWJWj2AZlsglHYwtWCJRvXcZKR-qrV0YH1AvYJ4b1l1BYWygJHC8juUXIxnVZGCUJtcQlaPuz2elp14KSLgFYTpNzcWj9dB8ZcC2okL70U1Kd5NcVBxL82hcdOs0AQYcfIH0uidayDfH0lViCdMixbbKZ4sz28M3PCotLP8p7Semgo-1OKzXz1RWfo2YjEwbFPf3wQY4OBmeGzGjHyOzEB5sw3Z5QcmKFIL3_Ri9w2lUTy9KRwK8N-kGopEeHhBTo7xhL__gv-AAAAAILvs4HAA"
 # ---------------------------
 #   ADD BOTS USER
 # ---------------------------
